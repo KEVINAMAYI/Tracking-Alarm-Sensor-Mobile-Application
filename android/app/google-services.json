@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "419968322425",
+    "firebase_url": "https://a-track-efd42.firebaseio.com",
+    "project_id": "a-track-efd42",
+    "storage_bucket": "a-track-efd42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419968322425:android:5f2095b7f107d5274c7da8",
+        "android_client_info": {
+          "package_name": "com.domain.atrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419968322425-ftqno8bn5pqlat1badito8d8mvafiqgv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.domain.atrack",
+            "certificate_hash": "5930892fe80fb1fab1e9616ccff1282f1cbfdca5"
+          }
+        },
+        {
+          "client_id": "419968322425-k98bfbob4bm572dabpb0g25crfu5at2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwnU9oCPzLz4l-jq7q6Uqn0zkS9J3X8yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419968322425-k98bfbob4bm572dabpb0g25crfu5at2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
